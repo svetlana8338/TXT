@@ -1,4 +1,4 @@
-1) Поспелова С.Н.
-2) 39 лет
-3) 3 животных
-4) будущая желаемая зарплата 150 000 руб.
+1) Full name - Pospelova S.N.
+2) Age - 39
+3) Number of pets - 3
+4) Future desired salary - 150000
